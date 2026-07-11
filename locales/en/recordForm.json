@@ -1,0 +1,15 @@
+{
+  "date": "Date",
+  "sn":"SN",
+  "id": "Id",
+  "description": "Description",
+  "photo": "Photo",
+  "updateRecord": "Update Record",
+  "createRecord": "+ Create Record",
+  
+  "action": "Actions",
+  "detailedAudit": "Detailed Record Audit",
+  "detail": "Detail",
+  "close": "Close",
+  "printPDF": "Print PDF"
+}
